@@ -2,6 +2,6 @@
   "name": "FTKToken",
   "symbol": "FTK",
   "description": "FTK token",
-  "image": "ftk_128.png",
+  "image": "https://andy61kav.github.io/ftk_meta/ftk_128.png",
   "decimals": 9
 }

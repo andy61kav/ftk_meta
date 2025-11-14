@@ -1,0 +1,7 @@
+{
+  "name": "FTKToken",
+  "symbol": "FTK",
+  "description": "FTK token",
+  "image": "http://109.95.214.101/ftk_128.png",
+  "decimals": 9
+}

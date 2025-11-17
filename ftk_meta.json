@@ -3,6 +3,9 @@
   "description": "FTK token description", 
   "symbol": "FTK",
   "decimals": 9,
-  "image": "https://andy61kav.github.io/ftk_meta/ftk_128.png"  
+  "image": "https://andy61kav.github.io/ftk_meta/ftk_128.png",
+  "social_links": [],
+   "marketplace": "ston.fi"
 }
+
 

@@ -1,8 +1,8 @@
 {
-  "address": "0:40719708d801280e4d7d663c5725d29cfbc3ef75834fe5b01a32228a1b0cd9aa",
-  "name": "FTKToken",
+  "name": "FTK Token",
+  "description": "FTK token description", 
   "symbol": "FTK",
-  "description": "FTK token", 
-  "image": "https://andy61kav.github.io/ftk_meta/ftk_128.png",
-  "decimals": 9
+  "decimals": 9,
+  "image": "https://andy61kav.github.io/ftk_meta/ftk_128.png"  
 }
+
